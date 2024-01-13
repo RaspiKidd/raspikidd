@@ -84,13 +84,13 @@
               Classes
             </NuxtLink>
 
-            <!--<a href="https://blog.raspikidd.com/" target="_Blank" class="text-base font-medium text-gray-500 hover:text-gray-900 focus:outline-none focus:ring-2 focus:ring-offset-2 focus:ring-red-500">
+            <a href="https://blog.raspikidd.com/" target="_Blank" class="text-base font-medium text-gray-500 hover:text-gray-900 focus:outline-none focus:ring-2 focus:ring-offset-2 focus:ring-red-500">
               Blog
-            </a>-->
+            </a>
 
-           <NuxtLink to="/Blog" class="text-base font-medium text-gray-500 hover:text-gray-900 focus:outline-none focus:ring-2 focus:ring-offset-2 focus:ring-red-500">
+           <!--<NuxtLink to="/Blog" class="text-base font-medium text-gray-500 hover:text-gray-900 focus:outline-none focus:ring-2 focus:ring-offset-2 focus:ring-red-500">
               Blog
-            </NuxtLink>
+            </NuxtLink> -->
 
             <NuxtLink to="/HireMe" class="text-base font-medium text-gray-500 hover:text-gray-900 focus:outline-none focus:ring-2 focus:ring-offset-2 focus:ring-red-500">
               Hire Us
