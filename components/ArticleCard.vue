@@ -6,8 +6,8 @@
       </div>
       <div class="flex-1 bg-white p-6 flex flex-col justify-between">
         <div class="flex-1">
-          <p class="text-sm font-medium text-indigo-600">
-            <a href="#" class="hover:underline"> Article </a>
+          <p class="text-sm font-medium text-indigo-600" style="color:#A42530">
+            {{ type }}
           </p>
           <a href="#" class="block mt-2">
             <p class="text-xl font-semibold text-gray-900">
@@ -50,6 +50,7 @@
 <script>
 export default {
   props: {
+    type: Object,
     title: String,
     slug: String,
     description: String,
