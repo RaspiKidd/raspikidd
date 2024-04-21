@@ -67,6 +67,7 @@
 
             <!--<form class="md:flex" name="Newsletter" netlify action="https://formspree.io/f/moqrdzdn" method="POST">-->
             <form class="md:flex" name="Newsletter" method="POST" netlify>
+              <input type="hidden" name="form-name" value="Newsletter" />
               <label for="name" class="sr-only">Name</label>
               <input
                 id="name"
