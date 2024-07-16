@@ -12,7 +12,7 @@
         data-netlify-recaptcha="true"
         method="POST" 
         name="contactUs" 
-        data-netlify="true"> 
+        netlify> 
       
         <input type="hidden" name="form-name" value="contactUs" />
             <div class="grid grid-cols-1 gap-x-8 gap-y-6 sm:grid-cols-2">
