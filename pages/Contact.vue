@@ -10,9 +10,9 @@
         <form 
         class="mx-auto mt-16 max-w-xl sm:mt-20"
         name="contactUs"
-        
+        data-netlify-recaptcha="true"
         method="POST" 
-        netlify> 
+        data-netlify="true"> 
       
         <input type="hidden" name="form-name" value="contactUs" />
             <div class="grid grid-cols-1 gap-x-8 gap-y-6 sm:grid-cols-2">
@@ -62,7 +62,7 @@
                     <p class="text-red-500 text-xs italic"> Required </p>
                 </div>
             </div>
-            
+            <div data-netlify-recaptcha="true"></div>
             <div class="mt-10">
                 <button type="submit" class="block w-full rounded-md bg-red-700 px-3.5 py-2.5 text-center text-sm font-semibold text-white shadow-sm hover:bg-red-600 focus-visible:outline focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-red-600">Let's talk</button>
             </div>

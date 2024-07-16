@@ -60,7 +60,7 @@ export default {
   nitro: {
     prerender: {
       routes: [
-        '/Contact',
+        '/Contact'
       ]
     }
   },
