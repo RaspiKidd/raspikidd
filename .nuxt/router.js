@@ -8,9 +8,11 @@ const _ddfd7c08 = () => interopDefault(import('../pages/About.vue' /* webpackChu
 const _19902003 = () => interopDefault(import('../pages/Blog.vue' /* webpackChunkName: "pages/Blog" */))
 const _478a2855 = () => interopDefault(import('../pages/Classes.vue' /* webpackChunkName: "pages/Classes" */))
 const _4676a43d = () => interopDefault(import('../pages/ComingSoon.vue' /* webpackChunkName: "pages/ComingSoon" */))
+const _5835874f = () => interopDefault(import('../pages/Contact.vue' /* webpackChunkName: "pages/Contact" */))
 const _2e02a07a = () => interopDefault(import('../pages/EduBlocksTutorials.vue' /* webpackChunkName: "pages/EduBlocksTutorials" */))
 const _5e0fd5d3 = () => interopDefault(import('../pages/GettingStartedMB.vue' /* webpackChunkName: "pages/GettingStartedMB" */))
 const _16bd6e66 = () => interopDefault(import('../pages/HireMe.vue' /* webpackChunkName: "pages/HireMe" */))
+const _2403fec0 = () => interopDefault(import('../pages/Home.vue' /* webpackChunkName: "pages/Home" */))
 const _37de0f89 = () => interopDefault(import('../pages/MakeCodeTutorials.vue' /* webpackChunkName: "pages/MakeCodeTutorials" */))
 const _36f23c0a = () => interopDefault(import('../pages/microbit.vue' /* webpackChunkName: "pages/microbit" */))
 const _a97c4654 = () => interopDefault(import('../pages/MicroPythonTutorials.vue' /* webpackChunkName: "pages/MicroPythonTutorials" */))
@@ -61,6 +63,10 @@ export const routerOptions = {
     component: _4676a43d,
     name: "ComingSoon"
   }, {
+    path: "/Contact",
+    component: _5835874f,
+    name: "Contact"
+  }, {
     path: "/EduBlocksTutorials",
     component: _2e02a07a,
     name: "EduBlocksTutorials"
@@ -72,6 +78,10 @@ export const routerOptions = {
     path: "/HireMe",
     component: _16bd6e66,
     name: "HireMe"
+  }, {
+    path: "/Home",
+    component: _2403fec0,
+    name: "Home"
   }, {
     path: "/MakeCodeTutorials",
     component: _37de0f89,

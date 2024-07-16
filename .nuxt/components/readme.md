@@ -10,3 +10,4 @@ You can directly use them in pages and other components without the need to impo
 - `<Footer>` | `<footer>` (components/Footer.vue)
 - `<Header>` | `<header>` (components/Header.vue)
 - `<Logo>` | `<logo>` (components/Logo.vue)
+- `<SimpleHeader>` | `<simple-header>` (components/SimpleHeader.vue)

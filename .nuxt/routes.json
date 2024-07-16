@@ -3,196 +3,180 @@
     "name": "About",
     "path": "/About",
     "component": "/Users/kerry-annekidd/Documents/Website/raspikidd/pages/About.vue",
-    "chunkName": "pages/About",
-    "_name": "_ddfd7c08"
+    "chunkName": "pages/About"
   },
   {
     "name": "Blog",
     "path": "/Blog",
     "component": "/Users/kerry-annekidd/Documents/Website/raspikidd/pages/Blog.vue",
-    "chunkName": "pages/Blog",
-    "_name": "_19902003"
+    "chunkName": "pages/Blog"
   },
   {
     "name": "Classes",
     "path": "/Classes",
     "component": "/Users/kerry-annekidd/Documents/Website/raspikidd/pages/Classes.vue",
-    "chunkName": "pages/Classes",
-    "_name": "_478a2855"
+    "chunkName": "pages/Classes"
   },
   {
     "name": "ComingSoon",
     "path": "/ComingSoon",
     "component": "/Users/kerry-annekidd/Documents/Website/raspikidd/pages/ComingSoon.vue",
-    "chunkName": "pages/ComingSoon",
-    "_name": "_4676a43d"
+    "chunkName": "pages/ComingSoon"
+  },
+  {
+    "name": "Contact",
+    "path": "/Contact",
+    "component": "/Users/kerry-annekidd/Documents/Website/raspikidd/pages/Contact.vue",
+    "chunkName": "pages/Contact"
   },
   {
     "name": "EduBlocksTutorials",
     "path": "/EduBlocksTutorials",
     "component": "/Users/kerry-annekidd/Documents/Website/raspikidd/pages/EduBlocksTutorials.vue",
-    "chunkName": "pages/EduBlocksTutorials",
-    "_name": "_2e02a07a"
+    "chunkName": "pages/EduBlocksTutorials"
   },
   {
     "name": "GettingStartedMB",
     "path": "/GettingStartedMB",
     "component": "/Users/kerry-annekidd/Documents/Website/raspikidd/pages/GettingStartedMB.vue",
-    "chunkName": "pages/GettingStartedMB",
-    "_name": "_5e0fd5d3"
+    "chunkName": "pages/GettingStartedMB"
   },
   {
     "name": "HireMe",
     "path": "/HireMe",
     "component": "/Users/kerry-annekidd/Documents/Website/raspikidd/pages/HireMe.vue",
-    "chunkName": "pages/HireMe",
-    "_name": "_16bd6e66"
+    "chunkName": "pages/HireMe"
+  },
+  {
+    "name": "Home",
+    "path": "/Home",
+    "component": "/Users/kerry-annekidd/Documents/Website/raspikidd/pages/Home.vue",
+    "chunkName": "pages/Home"
   },
   {
     "name": "MakeCodeTutorials",
     "path": "/MakeCodeTutorials",
     "component": "/Users/kerry-annekidd/Documents/Website/raspikidd/pages/MakeCodeTutorials.vue",
-    "chunkName": "pages/MakeCodeTutorials",
-    "_name": "_37de0f89"
+    "chunkName": "pages/MakeCodeTutorials"
   },
   {
     "name": "microbit",
     "path": "/microbit",
     "component": "/Users/kerry-annekidd/Documents/Website/raspikidd/pages/microbit.vue",
-    "chunkName": "pages/microbit",
-    "_name": "_36f23c0a"
+    "chunkName": "pages/microbit"
   },
   {
     "name": "MicroPythonTutorials",
     "path": "/MicroPythonTutorials",
     "component": "/Users/kerry-annekidd/Documents/Website/raspikidd/pages/MicroPythonTutorials.vue",
-    "chunkName": "pages/MicroPythonTutorials",
-    "_name": "_a97c4654"
+    "chunkName": "pages/MicroPythonTutorials"
   },
   {
     "name": "RaspberryPi",
     "path": "/RaspberryPi",
     "component": "/Users/kerry-annekidd/Documents/Website/raspikidd/pages/RaspberryPi.vue",
-    "chunkName": "pages/RaspberryPi",
-    "_name": "_68931b92"
+    "chunkName": "pages/RaspberryPi"
   },
   {
     "name": "microbitTutorials-EduBlocksTutorials-CreateFitbitEB",
     "path": "/microbitTutorials/EduBlocksTutorials/CreateFitbitEB",
     "component": "/Users/kerry-annekidd/Documents/Website/raspikidd/pages/microbitTutorials/EduBlocksTutorials/CreateFitbitEB.vue",
-    "chunkName": "pages/microbitTutorials/EduBlocksTutorials/CreateFitbitEB",
-    "_name": "_32814bd2"
+    "chunkName": "pages/microbitTutorials/EduBlocksTutorials/CreateFitbitEB"
   },
   {
     "name": "microbitTutorials-EduBlocksTutorials-EnviroSensingEB",
     "path": "/microbitTutorials/EduBlocksTutorials/EnviroSensingEB",
     "component": "/Users/kerry-annekidd/Documents/Website/raspikidd/pages/microbitTutorials/EduBlocksTutorials/EnviroSensingEB.vue",
-    "chunkName": "pages/microbitTutorials/EduBlocksTutorials/EnviroSensingEB",
-    "_name": "_57cc6add"
+    "chunkName": "pages/microbitTutorials/EduBlocksTutorials/EnviroSensingEB"
   },
   {
     "name": "microbitTutorials-EduBlocksTutorials-RockPaperScissorsEB",
     "path": "/microbitTutorials/EduBlocksTutorials/RockPaperScissorsEB",
     "component": "/Users/kerry-annekidd/Documents/Website/raspikidd/pages/microbitTutorials/EduBlocksTutorials/RockPaperScissorsEB.vue",
-    "chunkName": "pages/microbitTutorials/EduBlocksTutorials/RockPaperScissorsEB",
-    "_name": "_967a4a2e"
+    "chunkName": "pages/microbitTutorials/EduBlocksTutorials/RockPaperScissorsEB"
   },
   {
     "name": "microbitTutorials-EduBlocksTutorials-ThrowGhostEB",
     "path": "/microbitTutorials/EduBlocksTutorials/ThrowGhostEB",
     "component": "/Users/kerry-annekidd/Documents/Website/raspikidd/pages/microbitTutorials/EduBlocksTutorials/ThrowGhostEB.vue",
-    "chunkName": "pages/microbitTutorials/EduBlocksTutorials/ThrowGhostEB",
-    "_name": "_22c0d8b0"
+    "chunkName": "pages/microbitTutorials/EduBlocksTutorials/ThrowGhostEB"
   },
   {
     "name": "microbitTutorials-EduBlocksTutorials-TrafficLightsEB",
     "path": "/microbitTutorials/EduBlocksTutorials/TrafficLightsEB",
     "component": "/Users/kerry-annekidd/Documents/Website/raspikidd/pages/microbitTutorials/EduBlocksTutorials/TrafficLightsEB.vue",
-    "chunkName": "pages/microbitTutorials/EduBlocksTutorials/TrafficLightsEB",
-    "_name": "_56a9f5f6"
+    "chunkName": "pages/microbitTutorials/EduBlocksTutorials/TrafficLightsEB"
   },
   {
     "name": "microbitTutorials-MakeCodeTutorials-CreateFitbitMC",
     "path": "/microbitTutorials/MakeCodeTutorials/CreateFitbitMC",
     "component": "/Users/kerry-annekidd/Documents/Website/raspikidd/pages/microbitTutorials/MakeCodeTutorials/CreateFitbitMC.vue",
-    "chunkName": "pages/microbitTutorials/MakeCodeTutorials/CreateFitbitMC",
-    "_name": "_07e4bd07"
+    "chunkName": "pages/microbitTutorials/MakeCodeTutorials/CreateFitbitMC"
   },
   {
     "name": "microbitTutorials-MakeCodeTutorials-EnviroSensingMC",
     "path": "/microbitTutorials/MakeCodeTutorials/EnviroSensingMC",
     "component": "/Users/kerry-annekidd/Documents/Website/raspikidd/pages/microbitTutorials/MakeCodeTutorials/EnviroSensingMC.vue",
-    "chunkName": "pages/microbitTutorials/MakeCodeTutorials/EnviroSensingMC",
-    "_name": "_7fbce082"
+    "chunkName": "pages/microbitTutorials/MakeCodeTutorials/EnviroSensingMC"
   },
   {
     "name": "microbitTutorials-MakeCodeTutorials-RockPaperScissorsMC",
     "path": "/microbitTutorials/MakeCodeTutorials/RockPaperScissorsMC",
     "component": "/Users/kerry-annekidd/Documents/Website/raspikidd/pages/microbitTutorials/MakeCodeTutorials/RockPaperScissorsMC.vue",
-    "chunkName": "pages/microbitTutorials/MakeCodeTutorials/RockPaperScissorsMC",
-    "_name": "_6d08b96a"
+    "chunkName": "pages/microbitTutorials/MakeCodeTutorials/RockPaperScissorsMC"
   },
   {
     "name": "microbitTutorials-MakeCodeTutorials-ThrowGhostMC",
     "path": "/microbitTutorials/MakeCodeTutorials/ThrowGhostMC",
     "component": "/Users/kerry-annekidd/Documents/Website/raspikidd/pages/microbitTutorials/MakeCodeTutorials/ThrowGhostMC.vue",
-    "chunkName": "pages/microbitTutorials/MakeCodeTutorials/ThrowGhostMC",
-    "_name": "_18522858"
+    "chunkName": "pages/microbitTutorials/MakeCodeTutorials/ThrowGhostMC"
   },
   {
     "name": "microbitTutorials-MakeCodeTutorials-TrafficLightsMC",
     "path": "/microbitTutorials/MakeCodeTutorials/TrafficLightsMC",
     "component": "/Users/kerry-annekidd/Documents/Website/raspikidd/pages/microbitTutorials/MakeCodeTutorials/TrafficLightsMC.vue",
-    "chunkName": "pages/microbitTutorials/MakeCodeTutorials/TrafficLightsMC",
-    "_name": "_3d0029e7"
+    "chunkName": "pages/microbitTutorials/MakeCodeTutorials/TrafficLightsMC"
   },
   {
     "name": "microbitTutorials-PythonTutorials-CreateFitbitPY",
     "path": "/microbitTutorials/PythonTutorials/CreateFitbitPY",
     "component": "/Users/kerry-annekidd/Documents/Website/raspikidd/pages/microbitTutorials/PythonTutorials/CreateFitbitPY.vue",
-    "chunkName": "pages/microbitTutorials/PythonTutorials/CreateFitbitPY",
-    "_name": "_768a6b5b"
+    "chunkName": "pages/microbitTutorials/PythonTutorials/CreateFitbitPY"
   },
   {
     "name": "microbitTutorials-PythonTutorials-EnviroSensingPY",
     "path": "/microbitTutorials/PythonTutorials/EnviroSensingPY",
     "component": "/Users/kerry-annekidd/Documents/Website/raspikidd/pages/microbitTutorials/PythonTutorials/EnviroSensingPY.vue",
-    "chunkName": "pages/microbitTutorials/PythonTutorials/EnviroSensingPY",
-    "_name": "_6848eb71"
+    "chunkName": "pages/microbitTutorials/PythonTutorials/EnviroSensingPY"
   },
   {
     "name": "microbitTutorials-PythonTutorials-RockPaperScissorsPY",
     "path": "/microbitTutorials/PythonTutorials/RockPaperScissorsPY",
     "component": "/Users/kerry-annekidd/Documents/Website/raspikidd/pages/microbitTutorials/PythonTutorials/RockPaperScissorsPY.vue",
-    "chunkName": "pages/microbitTutorials/PythonTutorials/RockPaperScissorsPY",
-    "_name": "_7de0877d"
+    "chunkName": "pages/microbitTutorials/PythonTutorials/RockPaperScissorsPY"
   },
   {
     "name": "microbitTutorials-PythonTutorials-ThrowGhostPY",
     "path": "/microbitTutorials/PythonTutorials/ThrowGhostPY",
     "component": "/Users/kerry-annekidd/Documents/Website/raspikidd/pages/microbitTutorials/PythonTutorials/ThrowGhostPY.vue",
-    "chunkName": "pages/microbitTutorials/PythonTutorials/ThrowGhostPY",
-    "_name": "_7c6b8a28"
+    "chunkName": "pages/microbitTutorials/PythonTutorials/ThrowGhostPY"
   },
   {
     "name": "microbitTutorials-PythonTutorials-TrafficLightsPY",
     "path": "/microbitTutorials/PythonTutorials/TrafficLightsPY",
     "component": "/Users/kerry-annekidd/Documents/Website/raspikidd/pages/microbitTutorials/PythonTutorials/TrafficLightsPY.vue",
-    "chunkName": "pages/microbitTutorials/PythonTutorials/TrafficLightsPY",
-    "_name": "_35b0f4ce"
+    "chunkName": "pages/microbitTutorials/PythonTutorials/TrafficLightsPY"
   },
   {
     "name": "index",
     "path": "/",
     "component": "/Users/kerry-annekidd/Documents/Website/raspikidd/pages/index.vue",
-    "chunkName": "pages/index",
-    "_name": "_3946fce1"
+    "chunkName": "pages/index"
   },
   {
     "name": "slug",
     "path": "/:slug",
     "component": "/Users/kerry-annekidd/Documents/Website/raspikidd/pages/_slug.vue",
-    "chunkName": "pages/_slug",
-    "_name": "_37905b99"
+    "chunkName": "pages/_slug"
   }
 ]

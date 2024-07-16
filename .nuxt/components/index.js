@@ -2,6 +2,7 @@ export { default as ArticleCard } from '../../components/ArticleCard.vue'
 export { default as Footer } from '../../components/Footer.vue'
 export { default as Header } from '../../components/Header.vue'
 export { default as Logo } from '../../components/Logo.vue'
+export { default as SimpleHeader } from '../../components/SimpleHeader.vue'
 
 // nuxt/nuxt.js#8607
 function wrapFunctional(options) {

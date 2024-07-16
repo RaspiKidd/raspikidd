@@ -10,5 +10,8 @@
   },
   "Logo": {
     "description": "Auto imported from components/Logo.vue"
+  },
+  "SimpleHeader": {
+    "description": "Auto imported from components/SimpleHeader.vue"
   }
 }
