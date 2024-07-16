@@ -23,7 +23,7 @@
   const navigation = [
     /*{ name: 'Product', href: '#' },
     { name: 'Features', href: '#' },
-    { name: 'Marketplace', href: '#' }, */
-    { name: 'Contact Us', href: '/Contact' },
+    { name: 'Marketplace', href: '#' }, 
+    { name: 'Contact Us', href: '/Contact' },*/
   ]
   </script>
